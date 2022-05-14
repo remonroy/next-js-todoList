@@ -1,1 +1,1 @@
-this pratic next js project:=>https://next-js-todo-list.vercel.app/about/1
+this pratic next js project:=>https://next-js-todo-list.vercel.app/
